@@ -1,4 +1,4 @@
-VehicleRef,Reg,VehicleID,Last tracked,Type,Livery,Name,Previous reg,Special features
+VehicleRef,Reg,RouteRef,Last tracked,Type,Livery,Name,Previous reg,Special features
 SP GM,,166,15:48,Spare ticket machine,,,,
 SP MD,,85,28 Nov 11:05,Spare ticket machine,,,,
 SP TW,,6X,24 Oct 16:15,Spare ticket machine,,,,
